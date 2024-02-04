@@ -1,0 +1,4 @@
+env/
+credit-db.sqlite3
+customer_data.xlsx
+loan_data.xlsx
